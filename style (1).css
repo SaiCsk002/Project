@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+}
+header{
+    background-color:rgb(165, 248, 206);
+    
+    background-size:cover;
+    background-position:center;
+}
+
+ul li a{
+    float: right;
+    list-style-type: none;
+}
+ul li a{
+    text-decoration: none;
+    color:mintcream;
+    padding: 5px 20px;
+    border:1px solid;
+    color: blue;
+}
+.imageside{
+    width: 100%;
+    height: auto;
+    padding: 1px;
+}
+.imagedet{
+    margin-left: 2px;
+    float: left;
+    height: 596px;
+    width: 690px;
+}
+.box{
+    border-color: rgb(83, 71, 255);
+    border-style: solid;
+}
+.iconstray{
+    width: 100%;
+    height: auto;
+    padding: 1px;
+}
+.icons{
+    border-color: rgb(83, 71, 255);
+    border-style: solid;
+}
